@@ -1,0 +1,10 @@
+
+.dot {
+	fill: steelblue;
+	cursor: crosshair;
+}
+
+.dot:hover {
+	fill: DarkOrange;
+	cursor: crosshair;
+}
